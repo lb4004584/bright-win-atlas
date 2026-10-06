@@ -1,8 +1,0 @@
-{
-  "outcome": "failed",
-  "fix_type": "transient",
-  "resume_from": "gh-prepare",
-  "message": "gh-prepare ran but returned no runId.",
-  "log": "projects/BrightWinAtlas/.resume-20261006-082502.log",
-  "attempted_at_epoch": 1791267929
-}
